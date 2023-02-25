@@ -6,3 +6,7 @@ def cube(x):
 
 def foo(dico, key):
     return dico[key]
+
+
+def func3(x):
+    return x
