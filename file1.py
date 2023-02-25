@@ -10,3 +10,6 @@ def foo(dico, key):
 
 def func3(x):
     return x
+
+def func4(x):
+    return x**6
